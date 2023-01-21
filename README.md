@@ -7,3 +7,9 @@ This repo is a based on a tutorial by Hayk Davtyan, https://levelup.gitconnected
 ```
 docker-compose up
 ```
+
+## Links
+
+* [Prometheus targets state](http://localhost:9090/targets)
+* [Prometheus query UI](http://localhost:9090/graph)
+* [Grafana](http://localhost:3000)
